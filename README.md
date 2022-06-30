@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/thyagudev/"><i>Thyago Ferreira</i></a> 😃️</h1>
-  <h2 align="center"> Sou estudante de Full Stack e quero crescer ainda mas nesse mundo da programação! </h2>
+  <h2 align="center"> Sou estudante de Full Stack e quero crescer nesse mundo da programação! </h2>
 
 
 <div align="center">
@@ -19,10 +19,8 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  
-  <p><img align= "right" src"https://github.com/ThyaguDev/ThyaguDev/blob/main/coding.gif" width="250" height="220"/></p> 
 
-  
+  <img align="right" alt="thyago" src="https://github.com/ThyaguDev/ThyaguDev/blob/main/coding.gif"   width="299" height="178">
          
   
 </div><br>
@@ -42,9 +40,7 @@
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-
+  </div>
 
 
 
