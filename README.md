@@ -20,7 +20,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   
-  <p><img align= "right" src"ezgif.com-gif-maker.webp" width="250" height="220"/></p> 
+  <p><img align= "right" src"https://github.com/ThyaguDev/ThyaguDev/blob/main/coding.gif" width="250" height="220"/></p> 
 
   
          
