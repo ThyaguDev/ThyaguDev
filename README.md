@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/thyagudev/"><i>Thyago Ferreira</i></a> 😃️</h1>
-  <h2 align="center"> Sou estudante de Full Stack e quero crescer nesse mundo da programação! </h2>
+  <h2 align="center"> Front-end engineer venha  me acompanhe para crescer nesse mundo da programação! </h2>
 
 
 <div align="center">
